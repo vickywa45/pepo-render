@@ -1,0 +1,9 @@
+{
+  "name": "pepo-render",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Perender MP4 animasi video Pepo (GitHub Actions)",
+  "scripts": { "render": "node render.js" },
+  "dependencies": { "playwright": "1.49.1" },
+  "engines": { "node": ">=20" }
+}
